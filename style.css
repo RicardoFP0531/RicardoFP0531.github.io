@@ -1,0 +1,55 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    
+    background-color: #0c223c;
+}
+
+.marco {
+  
+    box-sizing: border-box;
+    margin: 0 auto;
+    max-width: 900px;
+    padding-right: 2rem;
+    border-radius: 20px;
+    margin-top: 80px;
+
+    background-color: rgb(146, 183, 252);
+}
+
+.marco .texto {
+    margin-right: 3rem;
+    max-width: 320px;
+
+    display: inline-block;
+}
+
+.texto {
+    margin-left: 70px;
+    font-size:25px;
+    font-family:arial;
+    text-align: left;
+}
+
+
+.img-rocket {
+    height: 300px;
+    width: 310px;
+    margin-top: 20px;
+    display: inline;
+
+}
+
+button {
+    width: 200px;
+    height: 50px;
+    margin-left: 80px;
+    margin-bottom: 40px;
+
+    border-radius:8px;
+    background:#0c223c;
+    color:white;
+
+}
